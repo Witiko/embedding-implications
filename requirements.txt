@@ -1,0 +1,7 @@
+gensim~=3.7.2
+matplotlib~=3.0.3
+networkx~=2.3
+numpy~=1.16.3
+pandas~=0.24.2
+pygraphviz~=1.5
+scipy~=1.2.1
